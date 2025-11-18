@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     background: linear-gradient(135deg, rgb(75, 204, 255), rgb(255, 35, 255));
-    height: 600vh;
+    height: 100vh;
 }
 
 .container{
